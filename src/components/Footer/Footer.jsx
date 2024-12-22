@@ -59,7 +59,8 @@ const Footer = () => {
             <Link tp='#'><i class="ri-facebook-circle-line"></i></Link>
           </span>
           <span>
-            <Link tp='#'><i class="ri-instagram-line"></i></Link>
+            {
+          <a href="https://www.instagram.com/theconsultantsoffl/?utm_source=ig_web_button_share_sheet" target="_blank"><i class="ri-instagram-line"></i></a>/* <Link tp='#'><i class="ri-instagram-line"></i></Link> */}
           </span>
           </div>
           </Col>
@@ -130,3 +131,6 @@ const Footer = () => {
 }
 
 export default Footer
+
+
+

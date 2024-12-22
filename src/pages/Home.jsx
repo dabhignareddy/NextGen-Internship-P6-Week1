@@ -27,7 +27,7 @@ const Home = () => {
           </div>
           <h1>Traveling opens the door to creating <span className="highlight">
             memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ut voluptatum quisquam error facilis eum rerum, ratione accusamus molestias fugiat consequatur repellendus pariatur numquam ea dolor! Eligendi sunt ab nostrum?</p>
+            <p>Explore the world to get lifetime learnings!!</p>
         </div>
         </Col>
         <Col lg="2">

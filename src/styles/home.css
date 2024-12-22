@@ -17,6 +17,7 @@
     font-size: 1.1rem;
     color: var(--text-color);
     line-height: 2rem;
+    font-style: italic;
 }
 
 .hero__img-box img, .hero__img-box video{
